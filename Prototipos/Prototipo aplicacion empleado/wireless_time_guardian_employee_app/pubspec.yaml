@@ -1,0 +1,30 @@
+name: wireless_time_guardian_employee_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  device_info_plus: ^10.0.1
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  uuid: ^4.3.3
+  stomp_dart_client: ^1.0.2
+  http: ^1.2.0
+  elegant_notification: ^1.12.0
+  web_socket_channel: ^2.1.0
+  flutter_foreground_task: ^6.4.0
+  permission_handler: ^11.3.1
+  awesome_notifications: ^0.9.3+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
