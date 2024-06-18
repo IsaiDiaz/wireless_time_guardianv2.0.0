@@ -4,3 +4,6 @@
 [submodule "wtg_employee_app"]
 	path = wtg_employee_app
 	url = git@github.com:IsaiDiaz/wtg_employee_app.git
+[submodule "wtg_desktop"]
+	path = wtg_desktop
+	url = git@github.com:IsaiDiaz/wtg_desktop.git
